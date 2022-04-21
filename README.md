@@ -3,7 +3,7 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/CoastyHyperSphere/Beautiful-Login-Form)
 
-This is a Beautiful Lugin Form Made in Ht ml Ans CSS 
+This is a Beautiful Lugin Form Made in Html Ans CSS 
 ## Included Code
 
 - A Basic Html File
